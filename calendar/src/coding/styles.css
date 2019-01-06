@@ -1,0 +1,29 @@
+.menu{
+    width: 150px;
+    height:30px;
+    background-color: gray;
+    color: white;
+    display:flex;
+    justify-content:center;
+     align-items:center
+}
+
+.day{
+    width: 150px;
+    height: 80px;
+    background-color: #ABA9A8; 
+    color: white;
+    display:flex;
+    justify-content:center; 
+    align-items:center; 
+    border-top:solid; 
+    border-right:solid;
+    border-left:solid;
+    border-block-end:solid;
+}
+
+.day:hover {
+    background-color: black;
+    color: white;
+}
+
